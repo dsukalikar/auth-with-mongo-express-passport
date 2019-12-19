@@ -1,1 +1,5 @@
-# auth-with-mongo-express-passport
+# Auth with mongo express passport
+`
+npm install
+npm start
+`
